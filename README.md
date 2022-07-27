@@ -1,5 +1,9 @@
 # client
 
+## 访问地址
+
+www.gzg98.com:8021
+
 ## Project setup
 ```
 npm install
