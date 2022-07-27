@@ -1,0 +1,23 @@
+export default {
+    error: "icon-error1",
+    info:"icon-info",
+    warn: "icon-warn",
+    success: "icon-success",
+    fistPage: "icon-icon-test30",
+    lastPage: "icon-icon-test33",
+    arrowLeft:"icon-icon-test27",
+    arrowDown: "icon-icon-test28",
+    arrowRight: "icon-icon-test29",
+    arrowUp: "icon-icon-test26",
+    search: "icon-icon-test4",
+    user: "icon-user",
+    password: "icon-password",
+    close: "icon-icon-test20",
+    view: "icon-icon-test",
+    viewOff: "icon-icon-test1",
+    empty: "icon-empty",
+    notice: "icon-notice",
+    poweroff: "icon-poweroff",
+    list: "icon-icon-test18",
+    hot: "icon-hot"
+}
